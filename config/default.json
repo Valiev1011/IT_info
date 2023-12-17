@@ -1,0 +1,15 @@
+{
+  "port": 3000,
+  "atlasURI": "mongodb+srv://Cluster38022:valiev1011@cluster38022.moghukb.mongodb.net/employee?retryWrites=true&w=majority",
+  "secret": "MyVeryVerySecretKey",
+  "access_key": "BuAccessUchunMahfiyKalit",
+  "refresh_key": "BuRefreshUchunMahfiyKalit",
+  "access_time": "2m",
+  "refresh_time": "5m",
+  "refresh_ms": 2592000000,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "valievyunus1011@gmail.com",
+  "smtp_password": "vpbsgkovzxshlyvn",
+  "api_url": "http://localhost:3000"
+}

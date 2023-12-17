@@ -1,0 +1,24 @@
+2023-06-22T05:10:01.906Z  error: uncaughtException: woops1
+Error: woops1
+    at /Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:39
+    at new Promise (<anonymous>)
+    at loginAuthor (/Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-22T05:10:26.947Z  error: uncaughtException: woops1
+Error: woops1
+    at /Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:39
+    at new Promise (<anonymous>)
+    at loginAuthor (/Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-22T05:11:34.898Z  error: uncaughtException: woops1
+Error: woops1
+    at /Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:39
+    at new Promise (<anonymous>)
+    at loginAuthor (/Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-22T05:12:35.061Z  error: uncaughtException: woops1
+Error: woops1
+    at /Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:39
+    at new Promise (<anonymous>)
+    at loginAuthor (/Users/valievyunus/FirstWeek/IT_Info/controllers/author.controller.js:202:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
